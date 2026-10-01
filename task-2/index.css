@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px;
+    background-color: #f4f6f8;
+}
+
+h1 {
+    color: #1a237e;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: #263238;
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+}
+.tip {
+    background-color: white;
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+.hero {
+    max-width: 800px;
+    margin: 0 auto 35px;
+    text-align: center;
+}
+
+.hero p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+}
